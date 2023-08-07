@@ -1,5 +1,7 @@
 Simple Guide to using Data Mining for Threat Intelligence. 
 
-In this notebook we web scraped the CISA Advisory site to gather and clasify oncoming alerts in real time into a live data feed.
+In this notebook we use Beautiful Soup to web scrape the CISA Advisory site. 
 
-** Next Improvement: Color coding & Sentiment Analysis
+Doing so enables us to gather and clasify oncoming alerts in real time into a live TI feed.
+
+** Next Improvement: Color coding by category & Sentiment Analysis
